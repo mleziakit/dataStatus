@@ -1,23 +1,51 @@
 [
   {
-    "kod": "3953",
+    "kod": "1990",
     "status": "zrobiony"
   },
   {
+    "kod": "2961",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2467",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3953",
+    "status": "do zrobienia"
+  },
+  {
     "kod": "2739",
+    "status": "do zrobienia"
+  },
+  {
+    "kod": "1704",
     "status": "zrobiony"
   },
   {
     "kod": "1611",
-    "status": "zrobiony"
+    "status": "do zrobienia"
   },
   {
     "kod": "1747",
     "status": "do zrobienia"
   },
   {
+    "kod": "3727",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1268",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3295",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1059",
+    "status": "zrobiony"
   },
   {
     "kod": "3860",
@@ -52,12 +80,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3258",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1103",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1515",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1777",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "4048",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1581",
+    "status": "zrobiony"
   },
   {
     "kod": "3288",
@@ -68,16 +112,72 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2175",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2962",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2977",
     "status": "do zrobienia"
   },
   {
+    "kod": "2971",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1878",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4039",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3597",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3933",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3063",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1550",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1726",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1383",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3243",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3535",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3398",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2187",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4062",
+    "status": "zrobiony"
   },
   {
     "kod": "1318",
@@ -88,16 +188,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2679",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2569",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3240",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2882",
+    "status": "zrobiony"
   },
   {
     "kod": "2428",
     "status": "do zrobienia"
   },
   {
+    "kod": "1009",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3729",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3653",
+    "status": "zrobiony"
   },
   {
     "kod": "4023",
@@ -108,36 +228,156 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1927",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2658",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1553",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3805",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2987",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3927",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1887",
     "status": "do zrobienia"
   },
   {
+    "kod": "1054",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1418",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3005",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2526",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3882",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2853",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2258",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2236",
+    "status": "zrobiony"
   },
   {
     "kod": "2460",
     "status": "do zrobienia"
   },
   {
+    "kod": "2806",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4061",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1822",
     "status": "do zrobienia"
   },
   {
+    "kod": "2112",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1426",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2796",
+    "status": "zrobiony"
   },
   {
     "kod": "1664",
     "status": "do zrobienia"
   },
   {
+    "kod": "1580",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1851",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1725",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1151",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4000",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1690",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2435",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3333",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2729",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2476",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3637",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1647",
+    "status": "zrobiony"
   },
   {
     "kod": "1253",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1711",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3544",
+    "status": "zrobiony"
   },
   {
     "kod": "2599",
@@ -172,6 +412,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1510",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1537",
     "status": "do zrobienia"
   },
@@ -180,8 +424,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3530",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2499",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2652",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2927",
+    "status": "zrobiony"
   },
   {
     "kod": "1169",
@@ -197,7 +453,11 @@
   },
   {
     "kod": "2441",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3320",
+    "status": "zrobiony"
   },
   {
     "kod": "3689",
@@ -205,15 +465,39 @@
   },
   {
     "kod": "2922",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2107",
     "status": "do zrobienia"
   },
   {
+    "kod": "3883",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1617",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3756",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3968",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1591",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3157",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3019",
+    "status": "zrobiony"
   },
   {
     "kod": "1472",
@@ -224,12 +508,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2768",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2473",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2015",
     "status": "do zrobienia"
   },
   {
+    "kod": "2943",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1556",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2727",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1011",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3397",
+    "status": "zrobiony"
   },
   {
     "kod": "2496",
@@ -240,16 +548,68 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3329",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3480",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2513",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2726",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2902",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1133",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2969",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1951",
+    "status": "zrobiony"
   },
   {
     "kod": "3305",
     "status": "do zrobienia"
   },
   {
+    "kod": "2828",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2014",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3841",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3048",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3013",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2576",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2145",
+    "status": "zrobiony"
   },
   {
     "kod": "2452",
@@ -260,12 +620,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2012",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2307",
     "status": "do zrobienia"
   },
   {
+    "kod": "1693",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4050",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1683",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1399",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3818",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1609",
+    "status": "zrobiony"
   },
   {
     "kod": "1983",
@@ -277,14 +661,14 @@
   },
   {
     "kod": "1697",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2562",
     "status": "do zrobienia"
   },
   {
     "kod": "2790",
-    "status": "do zrobienia"
-  },
-  {
-    "kod": "2562",
     "status": "do zrobienia"
   },
   {
@@ -296,6 +680,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2869",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2276",
     "status": "do zrobienia"
   },
@@ -304,16 +692,52 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2041",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2151",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3087",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1911",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1642",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2081",
+    "status": "zrobiony"
   },
   {
     "kod": "1604",
     "status": "do zrobienia"
   },
   {
+    "kod": "3174",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2478",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1767",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4060",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2585",
+    "status": "zrobiony"
   },
   {
     "kod": "2911",
@@ -330,6 +754,10 @@
   {
     "kod": "2618",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1676",
+    "status": "zrobiony"
   },
   {
     "kod": "3553",
@@ -354,6 +782,14 @@
   {
     "kod": "3700",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1605",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2596",
+    "status": "zrobiony"
   },
   {
     "kod": "2965",
@@ -384,8 +820,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2280",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1574",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "4011",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2324",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4021",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2323",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3206",
+    "status": "zrobiony"
   },
   {
     "kod": "2421",
@@ -396,20 +856,76 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2992",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3270",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2355",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3796",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2731",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3032",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2052",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3377",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3566",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3159",
+    "status": "zrobiony"
   },
   {
     "kod": "2098",
     "status": "do zrobienia"
   },
   {
+    "kod": "2505",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2849",
     "status": "do zrobienia"
   },
   {
+    "kod": "2192",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2832",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1836",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2129",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3871",
+    "status": "zrobiony"
   },
   {
     "kod": "2345",
@@ -433,11 +949,15 @@
   },
   {
     "kod": "3434",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2836",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2888",
+    "status": "zrobiony"
   },
   {
     "kod": "2101",
@@ -445,7 +965,7 @@
   },
   {
     "kod": "3630",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1236",
@@ -457,7 +977,7 @@
   },
   {
     "kod": "2300",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1986",
@@ -476,6 +996,14 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2600",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3395",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3625",
     "status": "do zrobienia"
   },
@@ -484,16 +1012,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3350",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1835",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3187",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1893",
+    "status": "zrobiony"
   },
   {
     "kod": "2268",
     "status": "do zrobienia"
   },
   {
+    "kod": "1569",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1048",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2784",
+    "status": "zrobiony"
   },
   {
     "kod": "4100",
@@ -506,6 +1054,34 @@
   {
     "kod": "3929",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2960",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2843",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2278",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1094",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2115",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2642",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1449",
+    "status": "zrobiony"
   },
   {
     "kod": "3680",
@@ -524,8 +1100,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1653",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3873",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3824",
+    "status": "zrobiony"
   },
   {
     "kod": "3242",
@@ -540,8 +1124,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2774",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3224",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3686",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2123",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2662",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2172",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1898",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2334",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2086",
+    "status": "zrobiony"
   },
   {
     "kod": "2165",
@@ -550,6 +1166,10 @@
   {
     "kod": "1355",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3946",
+    "status": "zrobiony"
   },
   {
     "kod": "2544",
@@ -577,7 +1197,7 @@
   },
   {
     "kod": "1785",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2845",
@@ -590,6 +1210,10 @@
   {
     "kod": "4035",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1256",
+    "status": "zrobiony"
   },
   {
     "kod": "2608",
@@ -608,8 +1232,12 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "4067",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2453",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2479",
@@ -625,19 +1253,23 @@
   },
   {
     "kod": "1926",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3201",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3308",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2465",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2635",
+    "status": "zrobiony"
   },
   {
     "kod": "3092",
@@ -645,11 +1277,23 @@
   },
   {
     "kod": "2824",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3773",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1451",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3167",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2475",
+    "status": "zrobiony"
   },
   {
     "kod": "2409",
@@ -660,16 +1304,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3847",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3942",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3200",
+    "status": "zrobiony"
   },
   {
     "kod": "3957",
     "status": "do zrobienia"
   },
   {
+    "kod": "1181",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2783",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3751",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2317",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3330",
+    "status": "zrobiony"
   },
   {
     "kod": "2529",
@@ -680,12 +1348,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1288",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3534",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4055",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2651",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1129",
+    "status": "zrobiony"
   },
   {
     "kod": "2046",
@@ -704,8 +1384,56 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2761",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2985",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2816",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3442",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2486",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3216",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3563",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2005",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2370",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2975",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2075",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3812",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3017",
+    "status": "zrobiony"
   },
   {
     "kod": "3223",
@@ -716,16 +1444,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3445",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3196",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2126",
+    "status": "zrobiony"
   },
   {
     "kod": "1261",
     "status": "do zrobienia"
   },
   {
+    "kod": "2342",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3879",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3348",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2746",
+    "status": "zrobiony"
   },
   {
     "kod": "2395",
@@ -736,12 +1484,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2970",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2407",
     "status": "do zrobienia"
   },
   {
+    "kod": "2733",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2833",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2881",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3706",
+    "status": "zrobiony"
   },
   {
     "kod": "2549",
@@ -752,8 +1516,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1586",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2380",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3229",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3020",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2860",
+    "status": "zrobiony"
   },
   {
     "kod": "2676",
@@ -765,11 +1545,15 @@
   },
   {
     "kod": "2516",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2444",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2737",
+    "status": "zrobiony"
   },
   {
     "kod": "3842",
@@ -780,6 +1564,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3833",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3488",
     "status": "do zrobienia"
   },
@@ -788,8 +1576,44 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3074",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1347",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1759",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1841",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1559",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2035",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3004",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2794",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1167",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2124",
+    "status": "zrobiony"
   },
   {
     "kod": "1387",
@@ -800,16 +1624,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2386",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1900",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1407",
     "status": "do zrobienia"
   },
   {
+    "kod": "1656",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1315",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3775",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1508",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1936",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1762",
+    "status": "zrobiony"
   },
   {
     "kod": "2856",
@@ -824,6 +1672,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3487",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2057",
     "status": "do zrobienia"
   },
@@ -836,6 +1688,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1988",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3346",
     "status": "do zrobienia"
   },
@@ -844,12 +1700,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3708",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3254",
     "status": "do zrobienia"
   },
   {
     "kod": "3922",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2037",
@@ -860,8 +1720,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2373",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3723",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3941",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3012",
+    "status": "zrobiony"
   },
   {
     "kod": "3765",
@@ -876,8 +1748,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2918",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2650",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3814",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1071",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2644",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2878",
+    "status": "zrobiony"
   },
   {
     "kod": "3867",
@@ -892,12 +1784,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2993",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2883",
     "status": "do zrobienia"
   },
   {
+    "kod": "3862",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3050",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3121",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3067",
+    "status": "zrobiony"
   },
   {
     "kod": "3042",
@@ -916,6 +1824,18 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2686",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2995",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2495",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3994",
     "status": "do zrobienia"
   },
@@ -928,12 +1848,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1811",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2830",
     "status": "do zrobienia"
   },
   {
     "kod": "1111",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3034",
+    "status": "zrobiony"
   },
   {
     "kod": "1608",
@@ -945,7 +1873,11 @@
   },
   {
     "kod": "3335",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4031",
+    "status": "zrobiony"
   },
   {
     "kod": "3939",
@@ -980,16 +1912,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2169",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2798",
     "status": "do zrobienia"
   },
   {
     "kod": "2389",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2439",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1349",
+    "status": "zrobiony"
   },
   {
     "kod": "2656",
@@ -1002,6 +1942,26 @@
   {
     "kod": "3547",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3209",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2640",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2416",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1154",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3494",
+    "status": "zrobiony"
   },
   {
     "kod": "1494",
@@ -1032,6 +1992,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1955",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1085",
     "status": "do zrobienia"
   },
@@ -1042,6 +2006,46 @@
   {
     "kod": "1300",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2917",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4038",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1789",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3170",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3324",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3802",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3114",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3884",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4010",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2857",
+    "status": "zrobiony"
   },
   {
     "kod": "3669",
@@ -1056,8 +2060,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2155",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1196",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1624",
+    "status": "zrobiony"
   },
   {
     "kod": "2842",
@@ -1065,7 +2077,7 @@
   },
   {
     "kod": "3758",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1056",
@@ -1074,6 +2086,22 @@
   {
     "kod": "1243",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1086",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1628",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3604",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2482",
+    "status": "zrobiony"
   },
   {
     "kod": "3666",
@@ -1092,6 +2120,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2989",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1156",
     "status": "do zrobienia"
   },
@@ -1100,8 +2132,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2851",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3127",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2983",
+    "status": "zrobiony"
   },
   {
     "kod": "1216",
@@ -1116,20 +2156,72 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2351",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1463",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2594",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3659",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1304",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2468",
     "status": "do zrobienia"
   },
   {
+    "kod": "3558",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2680",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1177",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3319",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2509",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3831",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1600",
     "status": "do zrobienia"
   },
   {
+    "kod": "1119",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3615",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1506",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2498",
+    "status": "zrobiony"
   },
   {
     "kod": "1495",
@@ -1137,7 +2229,7 @@
   },
   {
     "kod": "1557",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3178",
@@ -1148,24 +2240,84 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1266",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2779",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3995",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3555",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2533",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2749",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1727",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1140",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1419",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1908",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1277",
+    "status": "zrobiony"
   },
   {
     "kod": "1575",
     "status": "do zrobienia"
   },
   {
+    "kod": "1393",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2390",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1961",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3718",
+    "status": "zrobiony"
   },
   {
     "kod": "1325",
     "status": "do zrobienia"
   },
   {
+    "kod": "2234",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2580",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2246",
+    "status": "zrobiony"
   },
   {
     "kod": "3850",
@@ -1177,7 +2329,11 @@
   },
   {
     "kod": "3432",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2348",
+    "status": "zrobiony"
   },
   {
     "kod": "2305",
@@ -1200,8 +2356,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3355",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2411",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3940",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3115",
@@ -1216,12 +2380,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3691",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3501",
     "status": "do zrobienia"
   },
   {
+    "kod": "3678",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2071",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2693",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3936",
+    "status": "zrobiony"
   },
   {
     "kod": "2915",
@@ -1244,19 +2424,31 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2655",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2527",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3855",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1114",
+    "status": "zrobiony"
   },
   {
     "kod": "1539",
     "status": "do zrobienia"
   },
   {
-    "kod": "3169",
+    "kod": "1500",
     "status": "do zrobienia"
   },
   {
-    "kod": "1500",
+    "kod": "3169",
     "status": "do zrobienia"
   },
   {
@@ -1266,6 +2458,18 @@
   {
     "kod": "3697",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3404",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3391",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2673",
+    "status": "zrobiony"
   },
   {
     "kod": "1501",
@@ -1280,6 +2484,14 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2517",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1971",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4047",
     "status": "do zrobienia"
   },
@@ -1290,6 +2502,10 @@
   {
     "kod": "3349",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3760",
+    "status": "zrobiony"
   },
   {
     "kod": "3281",
@@ -1312,8 +2528,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3202",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3066",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1265",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2776",
+    "status": "zrobiony"
   },
   {
     "kod": "1392",
@@ -1325,7 +2553,7 @@
   },
   {
     "kod": "3403",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3031",
@@ -1340,8 +2568,12 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3978",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2308",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1784",
@@ -1353,15 +2585,39 @@
   },
   {
     "kod": "2892",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3608",
     "status": "do zrobienia"
   },
   {
+    "kod": "1362",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1781",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3639",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3869",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2815",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2531",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3138",
+    "status": "zrobiony"
   },
   {
     "kod": "4093",
@@ -1372,12 +2628,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2132",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3923",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2229",
     "status": "do zrobienia"
   },
   {
+    "kod": "3893",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1341",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3134",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2931",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1327",
+    "status": "zrobiony"
   },
   {
     "kod": "2967",
@@ -1385,15 +2665,27 @@
   },
   {
     "kod": "2197",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1040",
+    "status": "zrobiony"
   },
   {
     "kod": "3935",
     "status": "do zrobienia"
   },
   {
+    "kod": "1742",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3382",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2244",
+    "status": "zrobiony"
   },
   {
     "kod": "2384",
@@ -1404,6 +2696,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2937",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1357",
     "status": "do zrobienia"
   },
@@ -1412,12 +2708,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3162",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2831",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2011",
     "status": "do zrobienia"
   },
   {
+    "kod": "2610",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3587",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2111",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2437",
+    "status": "zrobiony"
   },
   {
     "kod": "3633",
@@ -1425,7 +2741,11 @@
   },
   {
     "kod": "1257",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1943",
+    "status": "zrobiony"
   },
   {
     "kod": "1685",
@@ -1444,8 +2764,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1779",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1827",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1293",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1503",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2611",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1890",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3259",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2561",
+    "status": "zrobiony"
   },
   {
     "kod": "2691",
@@ -1453,19 +2801,39 @@
   },
   {
     "kod": "2141",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2748",
     "status": "do zrobienia"
   },
   {
+    "kod": "3571",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2161",
     "status": "do zrobienia"
   },
   {
+    "kod": "1803",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3049",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1520",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2432",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2113",
+    "status": "zrobiony"
   },
   {
     "kod": "2357",
@@ -1488,12 +2856,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2872",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1997",
     "status": "do zrobienia"
   },
   {
     "kod": "1396",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3780",
+    "status": "zrobiony"
   },
   {
     "kod": "3256",
@@ -1508,8 +2884,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1176",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1118",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1953",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3990",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3061",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2043",
+    "status": "zrobiony"
   },
   {
     "kod": "1128",
@@ -1524,16 +2920,72 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2955",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2700",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2755",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1950",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2238",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3642",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4001",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3573",
+    "status": "zrobiony"
   },
   {
     "kod": "1932",
     "status": "do zrobienia"
   },
   {
+    "kod": "2001",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2272",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1473",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2613",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3244",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1120",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1589",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2707",
+    "status": "zrobiony"
   },
   {
     "kod": "3207",
@@ -1552,12 +3004,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3955",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3887",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3399",
     "status": "do zrobienia"
   },
   {
     "kod": "1281",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2431",
+    "status": "zrobiony"
   },
   {
     "kod": "1532",
@@ -1574,6 +3038,10 @@
   {
     "kod": "2539",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2778",
+    "status": "zrobiony"
   },
   {
     "kod": "3371",
@@ -1596,6 +3064,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3264",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3894",
     "status": "do zrobienia"
   },
@@ -1609,7 +3081,7 @@
   },
   {
     "kod": "3306",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2753",
@@ -1620,12 +3092,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3590",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1182",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1037",
     "status": "do zrobienia"
   },
   {
+    "kod": "3916",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3273",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3303",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2852",
+    "status": "zrobiony"
   },
   {
     "kod": "2209",
@@ -1636,16 +3128,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2077",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1429",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2215",
+    "status": "zrobiony"
   },
   {
     "kod": "1186",
     "status": "do zrobienia"
   },
   {
+    "kod": "2797",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3153",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3717",
+    "status": "zrobiony"
   },
   {
     "kod": "3039",
@@ -1668,8 +3176,12 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1716",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3987",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1620",
@@ -1684,12 +3196,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3975",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1123",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3822",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2263",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1062",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2274",
+    "status": "zrobiony"
   },
   {
     "kod": "3473",
@@ -1698,6 +3226,14 @@
   {
     "kod": "M01-3844",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3298",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2365",
+    "status": "zrobiony"
   },
   {
     "kod": "2414",
@@ -1716,8 +3252,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2387",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2528",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3564",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1016",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3500",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2759",
+    "status": "zrobiony"
   },
   {
     "kod": "3591",
@@ -1728,12 +3284,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3556",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2102",
     "status": "do zrobienia"
   },
   {
     "kod": "1700",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "4099",
+    "status": "zrobiony"
   },
   {
     "kod": "3790",
@@ -1753,11 +3317,19 @@
   },
   {
     "kod": "2361",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3290",
+    "status": "zrobiony"
   },
   {
     "kod": "3757",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3539",
+    "status": "zrobiony"
   },
   {
     "kod": "2935",
@@ -1776,8 +3348,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2488",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1051",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2375",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4076",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1655",
+    "status": "zrobiony"
   },
   {
     "kod": "4006",
@@ -1792,6 +3380,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1033",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2924",
     "status": "do zrobienia"
   },
@@ -1804,6 +3396,14 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2096",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2352",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2627",
     "status": "do zrobienia"
   },
@@ -1812,20 +3412,72 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2134",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2684",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3268",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3146",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "4097",
+    "status": "zrobiony"
   },
   {
     "kod": "3156",
     "status": "do zrobienia"
   },
   {
+    "kod": "2379",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2979",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3774",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1295",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3696",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3710",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3694",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3715",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2597",
+    "status": "zrobiony"
   },
   {
     "kod": "2240",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1038",
+    "status": "zrobiony"
   },
   {
     "kod": "3373",
@@ -1841,7 +3493,27 @@
   },
   {
     "kod": "1343",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3949",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1246",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3747",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1935",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2457",
+    "status": "zrobiony"
   },
   {
     "kod": "2895",
@@ -1850,6 +3522,14 @@
   {
     "kod": "1991",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3554",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2711",
+    "status": "zrobiony"
   },
   {
     "kod": "3925",
@@ -1865,7 +3545,11 @@
   },
   {
     "kod": "2233",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1838",
+    "status": "zrobiony"
   },
   {
     "kod": "3769",
@@ -1873,11 +3557,15 @@
   },
   {
     "kod": "2670",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1651",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3648",
+    "status": "zrobiony"
   },
   {
     "kod": "3865",
@@ -1886,6 +3574,10 @@
   {
     "kod": "1498",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2072",
+    "status": "zrobiony"
   },
   {
     "kod": "3171",
@@ -1904,6 +3596,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2446",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3023",
     "status": "do zrobienia"
   },
@@ -1912,20 +3608,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3719",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3819",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2091",
+    "status": "zrobiony"
   },
   {
     "kod": "2497",
     "status": "do zrobienia"
   },
   {
+    "kod": "2265",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3021",
     "status": "do zrobienia"
   },
   {
+    "kod": "1562",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3184",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3799",
+    "status": "zrobiony"
   },
   {
     "kod": "2186",
@@ -1944,6 +3660,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1922",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3952",
     "status": "do zrobienia"
   },
@@ -1952,8 +3672,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2261",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2649",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1906",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1621",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3372",
+    "status": "zrobiony"
   },
   {
     "kod": "3683",
@@ -1972,8 +3708,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2510",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3635",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3165",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2866",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2546",
+    "status": "zrobiony"
   },
   {
     "kod": "4020",
@@ -1992,6 +3744,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2945",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3022",
     "status": "do zrobienia"
   },
@@ -2000,8 +3756,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2061",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2617",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1735",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3970",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3197",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2378",
+    "status": "zrobiony"
   },
   {
     "kod": "3816",
@@ -2009,11 +3785,19 @@
   },
   {
     "kod": "1105",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2177",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2127",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1855",
+    "status": "zrobiony"
   },
   {
     "kod": "3959",
@@ -2036,20 +3820,100 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2330",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1127",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1744",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2440",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2341",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2242",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2777",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3900",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2182",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3588",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1221",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2114",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3878",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2483",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2740",
+    "status": "zrobiony"
   },
   {
     "kod": "1022",
     "status": "do zrobienia"
   },
   {
+    "kod": "3359",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2550",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3230",
     "status": "do zrobienia"
   },
   {
+    "kod": "2340",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3204",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3804",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2734",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1687",
+    "status": "zrobiony"
   },
   {
     "kod": "3131",
@@ -2060,6 +3924,14 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1819",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1884",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3279",
     "status": "do zrobienia"
   },
@@ -2068,8 +3940,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1402",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2472",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2818",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3161",
+    "status": "zrobiony"
   },
   {
     "kod": "2744",
@@ -2080,8 +3964,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3972",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2894",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2426",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2839",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2295",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3988",
+    "status": "zrobiony"
   },
   {
     "kod": "2267",
@@ -2092,12 +3996,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1815",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1106",
     "status": "do zrobienia"
   },
   {
+    "kod": "3641",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2222",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2412",
@@ -2117,7 +4029,23 @@
   },
   {
     "kod": "3043",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2787",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3358",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3856",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2065",
+    "status": "zrobiony"
   },
   {
     "kod": "3800",
@@ -2128,8 +4056,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2470",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3843",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1769",
+    "status": "zrobiony"
   },
   {
     "kod": "2224",
@@ -2148,12 +4084,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1323",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2817",
     "status": "do zrobienia"
   },
   {
     "kod": "3742",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3551",
+    "status": "zrobiony"
   },
   {
     "kod": "1843",
@@ -2176,8 +4120,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3140",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1415",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2954",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2137",
+    "status": "zrobiony"
   },
   {
     "kod": "2109",
@@ -2186,6 +4142,10 @@
   {
     "kod": "3724",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "4063",
+    "status": "zrobiony"
   },
   {
     "kod": "2889",
@@ -2200,8 +4160,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1245",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2708",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3938",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1445",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2100",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3876",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3177",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2331",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3764",
+    "status": "zrobiony"
   },
   {
     "kod": "2055",
@@ -2212,8 +4204,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1518",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3561",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2356",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4025",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2566",
+    "status": "zrobiony"
   },
   {
     "kod": "MESSER",
@@ -2228,20 +4236,60 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2647",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3606",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2932",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1840",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1761",
+    "status": "zrobiony"
   },
   {
     "kod": "2087",
     "status": "do zrobienia"
   },
   {
+    "kod": "3809",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1699",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2360",
     "status": "do zrobienia"
   },
   {
+    "kod": "2672",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2383",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1339",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3618",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2321",
+    "status": "zrobiony"
   },
   {
     "kod": "2814",
@@ -2253,19 +4301,35 @@
   },
   {
     "kod": "2451",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3141",
     "status": "do zrobienia"
   },
   {
+    "kod": "2148",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2521",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4079",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1526",
+    "status": "zrobiony"
   },
   {
     "kod": "1092",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2543",
+    "status": "zrobiony"
   },
   {
     "kod": "4059",
@@ -2296,12 +4360,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1533",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1223",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2296",
     "status": "do zrobienia"
   },
   {
+    "kod": "2837",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1050",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2257",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3299",
+    "status": "zrobiony"
   },
   {
     "kod": "1386",
@@ -2317,7 +4401,7 @@
   },
   {
     "kod": "1388",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1837",
@@ -2328,28 +4412,76 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3908",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1126",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3772",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1242",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4015",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1571",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3486",
+    "status": "zrobiony"
   },
   {
     "kod": "3943",
     "status": "do zrobienia"
   },
   {
+    "kod": "3030",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3595",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1665",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3745",
+    "status": "zrobiony"
   },
   {
     "kod": "3425",
     "status": "do zrobienia"
   },
   {
+    "kod": "1734",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3857",
     "status": "do zrobienia"
   },
   {
+    "kod": "1962",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3545",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2121",
+    "status": "zrobiony"
   },
   {
     "kod": "3253",
@@ -2368,24 +4500,76 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2293",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1337",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3803",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2269",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3248",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2986",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3557",
+    "status": "zrobiony"
   },
   {
     "kod": "2443",
     "status": "do zrobienia"
   },
   {
+    "kod": "3096",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3441",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3586",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3738",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3190",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3271",
+    "status": "zrobiony"
   },
   {
     "kod": "2581",
     "status": "do zrobienia"
   },
   {
+    "kod": "1952",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4057",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2633",
+    "status": "zrobiony"
   },
   {
     "kod": "1481",
@@ -2408,16 +4592,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2854",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3225",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3632",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3137",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1883",
+    "status": "zrobiony"
   },
   {
     "kod": "3744",
     "status": "do zrobienia"
   },
   {
+    "kod": "3755",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2218",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2314",
+    "status": "zrobiony"
   },
   {
     "kod": "3485",
@@ -2432,8 +4640,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2687",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1982",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2643",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3297",
+    "status": "zrobiony"
   },
   {
     "kod": "3895",
@@ -2444,12 +4664,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3631",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1442",
     "status": "do zrobienia"
   },
   {
     "kod": "3548",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2964",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3634",
+    "status": "zrobiony"
   },
   {
     "kod": "2868",
@@ -2480,16 +4712,16 @@
     "status": "do zrobienia"
   },
   {
-    "kod": "1842",
-    "status": "do zrobienia"
-  },
-  {
     "kod": "3444",
     "status": "do zrobienia"
   },
   {
-    "kod": "3328",
+    "kod": "1842",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3328",
+    "status": "zrobiony"
   },
   {
     "kod": "4040",
@@ -2500,20 +4732,56 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2529",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3234",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3071",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3845",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3465",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3072",
     "status": "do zrobienia"
   },
   {
     "kod": "2335",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1702",
+    "status": "zrobiony"
   },
   {
     "kod": "1916",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3344",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3139",
+    "status": "zrobiony"
   },
   {
     "kod": "1480",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3260",
+    "status": "zrobiony"
   },
   {
     "kod": "2021",
@@ -2528,12 +4796,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2948",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3241",
     "status": "do zrobienia"
   },
   {
     "kod": "1214",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1607",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1157",
+    "status": "zrobiony"
   },
   {
     "kod": "3997",
@@ -2560,12 +4840,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2256",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1317",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3778",
     "status": "do zrobienia"
   },
   {
+    "kod": "1333",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3029",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3287",
+    "status": "zrobiony"
   },
   {
     "kod": "1896",
@@ -2588,8 +4884,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1902",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3188",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2404",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2928",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3388",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2946",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2181",
+    "status": "zrobiony"
   },
   {
     "kod": "2685",
@@ -2600,8 +4920,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3901",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2315",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1639",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1491",
+    "status": "zrobiony"
   },
   {
     "kod": "1530",
@@ -2612,16 +4944,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2388",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2631",
     "status": "do zrobienia"
   },
   {
+    "kod": "3210",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2976",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2604",
+    "status": "zrobiony"
   },
   {
     "kod": "1798",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2362",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2038",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2424",
+    "status": "zrobiony"
   },
   {
     "kod": "3176",
@@ -2632,12 +4988,104 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3979",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1588",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2325",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2415",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1330",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2560",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3310",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2968",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1594",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1497",
+    "status": "zrobiony"
   },
   {
     "kod": "2023",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3044",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2434",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3192",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2829",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2346",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1858",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2190",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1933",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3247",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2110",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3770",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2427",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3550",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3928",
+    "status": "zrobiony"
   },
   {
     "kod": "4064",
@@ -2652,6 +5100,18 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1505",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1152",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2255",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2998",
     "status": "do zrobienia"
   },
@@ -2660,16 +5120,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1649",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3081",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2756",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3130",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2904",
+    "status": "zrobiony"
   },
   {
     "kod": "2477",
     "status": "do zrobienia"
   },
   {
+    "kod": "2972",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3075",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1866",
@@ -2684,16 +5164,44 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1097",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1372",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2320",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2484",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1043",
+    "status": "zrobiony"
   },
   {
     "kod": "2520",
     "status": "do zrobienia"
   },
   {
+    "kod": "2763",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2399",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2950",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2313",
+    "status": "zrobiony"
   },
   {
     "kod": "3085",
@@ -2704,6 +5212,14 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3098",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1736",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2622",
     "status": "do zrobienia"
   },
@@ -2712,12 +5228,28 @@
     "status": "do zrobienia"
   },
   {
-    "kod": "1739",
-    "status": "do zrobienia"
+    "kod": "3282",
+    "status": "zrobiony"
   },
   {
     "kod": "3236",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1739",
+    "status": "do zrobienia"
+  },
+  {
+    "kod": "3776",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3011",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1674",
+    "status": "zrobiony"
   },
   {
     "kod": "8001",
@@ -2728,8 +5260,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1195",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1995",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2241",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2709",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3497",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2243",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2720",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1210",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3112",
+    "status": "zrobiony"
   },
   {
     "kod": "3267",
@@ -2737,11 +5301,19 @@
   },
   {
     "kod": "3111",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3123",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3082",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1455",
+    "status": "zrobiony"
   },
   {
     "kod": "2301",
@@ -2752,12 +5324,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3924",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1397",
     "status": "do zrobienia"
   },
   {
+    "kod": "2221",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1745",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3851",
+    "status": "zrobiony"
   },
   {
     "kod": "1446",
@@ -2792,6 +5376,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1203",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4054",
     "status": "do zrobienia"
   },
@@ -2802,6 +5390,10 @@
   {
     "kod": "2903",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1141",
+    "status": "zrobiony"
   },
   {
     "kod": "2588",
@@ -2816,8 +5408,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3245",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3623",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3083",
+    "status": "zrobiony"
   },
   {
     "kod": "3179",
@@ -2836,6 +5436,26 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3304",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3877",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1937",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1416",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1732",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1519",
     "status": "do zrobienia"
   },
@@ -2844,12 +5464,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3079",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3252",
     "status": "do zrobienia"
   },
   {
     "kod": "3613",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3836",
+    "status": "zrobiony"
   },
   {
     "kod": "2827",
@@ -2861,11 +5489,27 @@
   },
   {
     "kod": "3221",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3212",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3316",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4007",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2163",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3737",
+    "status": "zrobiony"
   },
   {
     "kod": "2767",
@@ -2876,12 +5520,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1976",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1527",
     "status": "do zrobienia"
   },
   {
+    "kod": "1179",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2251",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3679",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1710",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1929",
+    "status": "zrobiony"
   },
   {
     "kod": "1865",
@@ -2889,7 +5553,7 @@
   },
   {
     "kod": "2944",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3766",
@@ -2909,7 +5573,7 @@
   },
   {
     "kod": "3289",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3376",
@@ -2918,6 +5582,14 @@
   {
     "kod": "2436",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2466",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2795",
+    "status": "zrobiony"
   },
   {
     "kod": "2823",
@@ -2932,6 +5604,14 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2154",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2741",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1551",
     "status": "do zrobienia"
   },
@@ -2941,7 +5621,11 @@
   },
   {
     "kod": "2303",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3100",
+    "status": "zrobiony"
   },
   {
     "kod": "3594",
@@ -2960,8 +5644,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3661",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4043",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1165",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2398",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2696",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2906",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3725",
+    "status": "zrobiony"
   },
   {
     "kod": "2000",
@@ -2972,16 +5680,76 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "4045",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3726",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2926",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2760",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3218",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2532",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1047",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3543",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3385",
+    "status": "zrobiony"
   },
   {
     "kod": "3892",
     "status": "do zrobienia"
   },
   {
+    "kod": "2450",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3421",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2880",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2060",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1183",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2430",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3783",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2914",
+    "status": "zrobiony"
   },
   {
     "kod": "2997",
@@ -2992,16 +5760,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2364",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1411",
     "status": "do zrobienia"
   },
   {
     "kod": "1688",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2850",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1211",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3690",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2628",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1622",
+    "status": "zrobiony"
   },
   {
     "kod": "3307",
@@ -3012,8 +5800,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3926",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3983",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1348",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2557",
+    "status": "zrobiony"
   },
   {
     "kod": "1410",
@@ -3024,8 +5824,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1862",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2602",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3136",
+    "status": "zrobiony"
   },
   {
     "kod": "1868",
@@ -3040,8 +5848,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1566",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3797",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3948",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1821",
+    "status": "zrobiony"
   },
   {
     "kod": "3144",
@@ -3052,6 +5872,14 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2678",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2167",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3038",
     "status": "do zrobienia"
   },
@@ -3060,28 +5888,80 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3276",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3522",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3617",
+    "status": "zrobiony"
   },
   {
     "kod": "3752",
     "status": "do zrobienia"
   },
   {
+    "kod": "2666",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1992",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1454",
+    "status": "zrobiony"
   },
   {
     "kod": "3787",
     "status": "do zrobienia"
   },
   {
+    "kod": "3749",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3261",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3040",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3647",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2743",
     "status": "do zrobienia"
   },
   {
+    "kod": "2359",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2667",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3622",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3767",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1623",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1443",
+    "status": "zrobiony"
   },
   {
     "kod": "1450",
@@ -3092,12 +5972,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1475",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2742",
     "status": "do zrobienia"
   },
   {
     "kod": "1849",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2681",
+    "status": "zrobiony"
   },
   {
     "kod": "2752",
@@ -3108,12 +5996,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3811",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1070",
     "status": "do zrobienia"
   },
   {
     "kod": "3237",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1031",
@@ -3128,6 +6020,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2391",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3313",
     "status": "do zrobienia"
   },
@@ -3138,6 +6034,18 @@
   {
     "kod": "2724",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1934",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2312",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2636",
+    "status": "zrobiony"
   },
   {
     "kod": "3059",
@@ -3152,6 +6060,26 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3885",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3246",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2771",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4078",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2736",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2844",
     "status": "do zrobienia"
   },
@@ -3164,16 +6092,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3420",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2609",
     "status": "do zrobienia"
   },
   {
     "kod": "1931",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1897",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1350",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2671",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1816",
+    "status": "zrobiony"
   },
   {
     "kod": "3215",
@@ -3188,6 +6132,22 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2491",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1353",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1384",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2606",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3806",
     "status": "do zrobienia"
   },
@@ -3196,8 +6156,36 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2587",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1356",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3055",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3228",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2304",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1175",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2664",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1306",
+    "status": "zrobiony"
   },
   {
     "kod": "2624",
@@ -3221,15 +6209,27 @@
   },
   {
     "kod": "2758",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3654",
+    "status": "zrobiony"
   },
   {
     "kod": "3965",
     "status": "do zrobienia"
   },
   {
+    "kod": "3416",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1921",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2512",
+    "status": "zrobiony"
   },
   {
     "kod": "1190",
@@ -3252,6 +6252,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3721",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3345",
     "status": "do zrobienia"
   },
@@ -3270,6 +6274,26 @@
   {
     "kod": "1173",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2507",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1873",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3592",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2757",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3579",
+    "status": "zrobiony"
   },
   {
     "kod": "2047",
@@ -3300,8 +6324,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2567",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1538",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2524",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2449",
+    "status": "zrobiony"
   },
   {
     "kod": "1379",
@@ -3312,8 +6348,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2773",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3675",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1945",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2235",
+    "status": "zrobiony"
   },
   {
     "kod": "2178",
@@ -3324,8 +6372,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1974",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3182",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2143",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2064",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3275",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2907",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3518",
+    "status": "zrobiony"
   },
   {
     "kod": "1963",
@@ -3344,6 +6416,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3546",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4029",
     "status": "do zrobienia"
   },
@@ -3360,8 +6436,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3665",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2045",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1264",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4068",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1432",
+    "status": "zrobiony"
   },
   {
     "kod": "2164",
@@ -3374,6 +6466,10 @@
   {
     "kod": "3089",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1830",
+    "status": "zrobiony"
   },
   {
     "kod": "3748",
@@ -3392,8 +6488,28 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3415",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3663",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1635",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3274",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2349",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2630",
+    "status": "zrobiony"
   },
   {
     "kod": "3015",
@@ -3408,8 +6524,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3638",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3006",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3318",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3353",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1847",
+    "status": "zrobiony"
   },
   {
     "kod": "3099",
@@ -3424,32 +6556,88 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2413",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4026",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3716",
     "status": "do zrobienia"
   },
   {
+    "kod": "1941",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3585",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1695",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3028",
     "status": "do zrobienia"
   },
   {
+    "kod": "2807",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3662",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3640",
+    "status": "zrobiony"
   },
   {
     "kod": "1889",
     "status": "do zrobienia"
   },
   {
+    "kod": "2119",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3839",
+    "status": "zrobiony"
+  },
+  {
     "kod": "4028",
     "status": "do zrobienia"
   },
   {
+    "kod": "3189",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3798",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2751",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1660",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3982",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3825",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3702",
+    "status": "zrobiony"
   },
   {
     "kod": "2973",
@@ -3468,16 +6656,52 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3931",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2601",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1090",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1891",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2775",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1871",
+    "status": "zrobiony"
   },
   {
     "kod": "4053",
     "status": "do zrobienia"
   },
   {
+    "kod": "1646",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1706",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2249",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "E0539",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2821",
+    "status": "zrobiony"
   },
   {
     "kod": "3311",
@@ -3488,8 +6712,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1524",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1240",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2819",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1863",
+    "status": "zrobiony"
   },
   {
     "kod": "1279",
@@ -3497,11 +6733,15 @@
   },
   {
     "kod": "2909",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3750",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2646",
+    "status": "zrobiony"
   },
   {
     "kod": "3875",
@@ -3520,8 +6760,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2329",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1440",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2990",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3124",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3041",
+    "status": "zrobiony"
   },
   {
     "kod": "1361",
@@ -3532,8 +6788,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3504",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1746",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2966",
+    "status": "zrobiony"
   },
   {
     "kod": "2103",
@@ -3548,12 +6812,24 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3657",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2333",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3688",
     "status": "do zrobienia"
   },
   {
     "kod": "2861",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2392",
+    "status": "zrobiony"
   },
   {
     "kod": "3129",
@@ -3572,6 +6848,10 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1025",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2228",
     "status": "do zrobienia"
   },
@@ -3580,8 +6860,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1684",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2865",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2193",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3078",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1052",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3300",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2062",
+    "status": "zrobiony"
   },
   {
     "kod": "2999",
@@ -3589,15 +6893,23 @@
   },
   {
     "kod": "2953",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2205",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3175",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2316",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1771",
+    "status": "zrobiony"
   },
   {
     "kod": "2584",
@@ -3608,8 +6920,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2525",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1975",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1854",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3235",
+    "status": "zrobiony"
   },
   {
     "kod": "3302",
@@ -3620,16 +6944,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3912",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3126",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1436",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2063",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2957",
+    "status": "zrobiony"
   },
   {
     "kod": "2099",
     "status": "do zrobienia"
   },
   {
+    "kod": "1860",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2153",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3821",
+    "status": "zrobiony"
   },
   {
     "kod": "2179",
@@ -3660,12 +7008,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3685",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3734",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2125",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3226",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1012",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3058",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "3213",
+    "status": "zrobiony"
   },
   {
     "kod": "2645",
@@ -3674,6 +7042,14 @@
   {
     "kod": "2463",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2862",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3817",
+    "status": "zrobiony"
   },
   {
     "kod": "1783",
@@ -3692,8 +7068,20 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2913",
+    "status": "zrobiony"
+  },
+  {
     "kod": "1112",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1818",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "4049",
+    "status": "zrobiony"
   },
   {
     "kod": "2730",
@@ -3701,11 +7089,31 @@
   },
   {
     "kod": "2188",
-    "status": "do zrobienia"
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2385",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2354",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1793",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3605",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "1307",
+    "status": "zrobiony"
   },
   {
     "kod": "1729",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "1824",
@@ -3720,12 +7128,16 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "1005",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3645",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2665",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "3227",
@@ -3736,16 +7148,40 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "3934",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3173",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "2454",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3045",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3785",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "1568",
+    "status": "zrobiony"
   },
   {
     "kod": "3712",
     "status": "do zrobienia"
   },
   {
+    "kod": "2394",
+    "status": "zrobiony"
+  },
+  {
     "kod": "2583",
-    "status": "do zrobienia"
+    "status": "zrobiony"
   },
   {
     "kod": "2789",
@@ -3756,12 +7192,32 @@
     "status": "do zrobienia"
   },
   {
+    "kod": "2410",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3837",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3667",
     "status": "do zrobienia"
   },
   {
+    "kod": "3973",
+    "status": "zrobiony"
+  },
+  {
+    "kod": "3624",
+    "status": "zrobiony"
+  },
+  {
     "kod": "3976",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2812",
+    "status": "zrobiony"
   },
   {
     "kod": "3815",
@@ -3770,6 +7226,10 @@
   {
     "kod": "2826",
     "status": "do zrobienia"
+  },
+  {
+    "kod": "2745",
+    "status": "zrobiony"
   },
   {
     "kod": "2574",
